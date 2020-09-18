@@ -4,12 +4,12 @@ Here are some ideas to get you started:
 
 I am a full stack developer sepcialising in JavaScript and other coding and programing languages like, python, HTML, CSS, Bootstrap and much more! 
 
-- 👨 Currently teaching people how to code on my [Youtube Channel](https://youtube.com/ZaydenTheDeveloper)\
-- 🤝 Open for collaborations, projects and up for hire!\
-- 😊 Willing to contribute in opensource development projects.\
-- 👨 Find more out about myself and my life style on my [Twitter](https://twitter.com/ZaydenHimself)\
-- 🌐 Visit my [porfolio](https://zayden.me) website for complete background and contact.\
-- 👋 My community Discord [server](https://discord.gg/9fuNWS7)\
+- 👨 Currently teaching people how to code on my [Youtube Channel](https://youtube.com/ZaydenTheDeveloper)
+- 🤝 Open for collaborations, projects and up for hire!
+- 😊 Willing to contribute in opensource development projects.
+- 👨 Find more out about myself and my life style on my [Twitter](https://twitter.com/ZaydenHimself)
+- 🌐 Visit my [porfolio](https://zayden.me) website for complete background and contact.
+- 👋 My community Discord [server](https://discord.gg/9fuNWS7)
 
 <details>
 <summary>🤝 <b>To connect with me</b></summary>
