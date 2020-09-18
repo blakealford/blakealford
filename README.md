@@ -1,6 +1,4 @@
-### Hello!
-
-Here are some ideas to get you started:
+### 👋 Hello, My Names Zayden!
 
 I am a full stack developer sepcialising in JavaScript and other coding and programing languages like, python, HTML, CSS, Bootstrap and much more! 
 
