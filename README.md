@@ -1,8 +1,5 @@
 ### Hello!
 
-<!--
-**Zayyden/Zayyden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 I am a full stack developer sepcialising in JavaScript and other coding and programing languages like, python, HTML, CSS, Bootstrap and much more! 
@@ -13,4 +10,3 @@ I am a full stack developer sepcialising in JavaScript and other coding and prog
 
 ❗ NOTE: All of my public repoistorys are opened source and are under the MIT liscnece, this alows you to chaneg and modify my source code. But please be sure to give credit! ❗
 
--->
