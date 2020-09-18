@@ -25,9 +25,8 @@ I am a full stack developer sepcialising in JavaScript and other coding and prog
 
 <details>
  <summary> 😇 <b>My Github Stats</b>: </summary>
-
+[![Zaydens github stats](https://github-readme-stats.vercel.app/api?username=Zayyden&show_icons=true&theme=vue-dark&line_height=27)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zayyden&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Zaydens github stats](https://github-readme-stats.vercel.app/api?username=Zayyden&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </details>
