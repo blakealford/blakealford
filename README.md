@@ -26,7 +26,7 @@ I am a full stack developer sepcialising in JavaScript and other coding and prog
 <details>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 
-![Zaydens github stats](https://github-readme-stats.vercel.app/api?Zayyden=anuraghazra&hide=contribs,prs)
+![Zayydens github stats](https://github-readme-stats.vercel.app/api?Zayyden=anuraghazra&hide=contribs,prs)
 
 </details>
 
