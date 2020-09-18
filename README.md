@@ -1,3 +1,5 @@
+[![Hello 👋🏻](https://media.discordapp.net/attachments/740740532896006255/756370431090491464/twitter.png?width=1442&height=481)][https://media.discordapp.net/attachments/740740532896006255/756370431090491464/twitter.png?width=1442&height=481]
+
 ### 👋 Hello, My Names Zayden!
 
 I am a full stack developer sepcialising in JavaScript and other coding and programing languages like, python, HTML, CSS, Bootstrap and much more! 
