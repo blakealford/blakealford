@@ -10,3 +10,7 @@ I am a full stack developer sepcialising in JavaScript and other coding and prog
 <br> <br>
 ❗ NOTE: All of my public repoistorys are opened source and are under the MIT liscnece, this alows you to change and modify my code. ❗
 
+Connect with me: 
+
+https://img.shields.io/badge/windows-asus%20zenbook%203-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white
+
