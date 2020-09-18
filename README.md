@@ -50,6 +50,16 @@ I am a full stack developer sepcialising in JavaScript and other coding and prog
 
 </details>
 
+<details> 
+ <summary>🤖 <b>My programming stats</b>: </summary>
+<br>
+<!--START_SECTION:waka-->
+
+
+
+
+<!--END_SECTION:waka-->
+</details>
 
 
 
