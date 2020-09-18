@@ -1,4 +1,4 @@
-[![Hello 👋🏻](https://media.discordapp.net/attachments/740740532896006255/756370431090491464/twitter.png?width=1442&height=481)][https://media.discordapp.net/attachments/740740532896006255/756370431090491464/twitter.png?width=1442&height=481]
+[![Hello 👋🏻](https://media.discordapp.net/attachments/740740532896006255/756370431090491464/twitter.png?width=1442&height=481)
 
 ### 👋 Hello, My Names Zayden!
 
