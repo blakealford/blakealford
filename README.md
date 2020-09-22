@@ -1,8 +1,7 @@
-![Hello 👋🏻](https://media.discordapp.net/attachments/740740532896006255/756370431090491464/twitter.png?width=1442&height=481)
 
-### 👋 Hello, My Names Zayden!
+### 👋 Hello, My Names Blake!!
 
-I am a full stack developer sepcialising in JavaScript and other coding and programing languages like, python, HTML, CSS, Bootstrap and much more! 
+hey there, My names Blake known as Zayyden online. I am a full stack developer sepcialising in JavaScript and other coding and programing languages like, python, HTML, CSS, Bootstrap and much more! 
 
 - 👨 Currently teaching people how to code on my [Youtube Channel](https://youtube.com/ZaydenTheDeveloper)
 - 🤝 Open for collaborations, projects and up for hire!
