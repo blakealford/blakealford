@@ -1,7 +1,7 @@
 
-### 👋 Hello, My Names Blake!!
+### 👋 Hello, My Names Blake!
 
-hey there, My names Blake known as Zayyden online. I am a full stack developer sepcialising in JavaScript and other coding and programing languages like, python, HTML, CSS, Bootstrap and much more! 
+Hey there, My names Blake known as Zayyden online. I am a full stack developer sepcialising in JavaScript and other coding and programing languages like, python, HTML, CSS, Bootstrap and much more! 
 
 - 👨 Currently teaching people how to code on my [Youtube Channel](https://youtube.com/ZaydenTheDeveloper)
 - 🤝 Open for collaborations, projects and up for hire!
