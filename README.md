@@ -26,8 +26,8 @@ Hey there, My names Blake known as Zayden online. I am a full stack developer se
 <details>
  <summary>😇 <b>My Github Stats</b>: </summary>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Zayyden&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Zayyden&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=BlakeAlford&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BlakeAlford&theme=tokyonight">
 </p>
 
 
