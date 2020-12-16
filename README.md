@@ -14,9 +14,9 @@ Hey there, my names Blake or also known as kiphlo to some people. I am a full st
 
 ### Contact 
 
-Email: balford120@gmail.com 
-Twitter: https://twitter.com/kiphlo 
-Discord: kiphlo#0001 
-Instagram: https://instagram.com/blakeaofficial 
-Website: https://blakealford.com
+Email: balford120@gmail.com <br>
+Twitter: https://twitter.com/kiphlo <br> 
+Discord: kiphlo#0001 <br>
+Instagram: https://instagram.com/blakeaofficial <br>
+Website: https://blakealford.com <br>
 
